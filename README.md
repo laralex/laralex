@@ -1,6 +1,6 @@
 <!--
 **laralex/laralex** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Hi, I'm Alexey Larionov  (male, 25 y.o.)
+## Hi, I'm Alexey Larionov  (male, 27 y.o.)
 
 [![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=transparent&count_private=true&hide_title=true&rank_icon=github)](https://github.com/laralex)
 
